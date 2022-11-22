@@ -1,12 +1,15 @@
 ## MAC instuction:
 ### brew install
-- step 1 ```shell 
+- step 1 
+```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-- step 2 ```shell 
+- step 2 
+```shell
 export PATH="/opt/homebrew/bin:$PATH"
 ```
-- step 3 ```shell 
+- step 3 
+```shell
 echo 'export PATH="/opt/homebrew/bin:$PATH"' >> $HOME/.zshrc
 ```
 
