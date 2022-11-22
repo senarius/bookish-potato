@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RavjHqCK5uTgnV+G3ixb4Kz2mWmuQgdqZ5nNhE/pXZlBI/wZrOWkOIE2bJpKYHDWAMOr5Nf+K++r0wVPWhzE0Q==",
+  "success": true,
+  "projectFilePath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/ts-otgon.tuukhbaatar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

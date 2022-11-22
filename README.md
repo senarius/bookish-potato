@@ -87,7 +87,7 @@ dotnet add {ProjectName}.Api reference {ProjectName}.Infrastructure
 ```shell
 dotnet run --project {ProjectName}.Api
 ```
-#### install REST clietn on VS code (optional)
+#### install REST client on VS code (optional)
 search type: 'rest client' then install
 
 #### create http file inside sln
@@ -106,3 +106,9 @@ GET http://localhost:5147/WeatherForecast
 - [Github](https://github.com/iayti/CleanArchitecture)
 - [About Arch itself #1](https://www.c-sharpcorner.com/article/clean-architecture-in-asp-net-core-web-api/)
 - [About Arch itself #2](https://www.c-sharpcorner.com/article/clean-architecture-with-asp-net-core-webapi/)
+
+### Additional
+#### adding login/register route
+```shell
+dotnet add BuberDinner.Application/ package Microsoft.Extensions.DependencyInjection.Abstractions
+```

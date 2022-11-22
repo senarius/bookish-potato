@@ -1,0 +1,12 @@
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.deps.json
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.dll
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.pdb
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.csproj.AssemblyReference.cache
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.AssemblyInfo.cs
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.dll
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/refint/BuberDinner.Contracts.dll
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.pdb
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/ref/BuberDinner.Contracts.dll

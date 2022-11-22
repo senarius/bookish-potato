@@ -1,0 +1,6 @@
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.csproj.AssemblyReference.cache
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.AssemblyInfoInputs.cache
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.AssemblyInfo.cs
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.csproj.CoreCompileInputs.cache
+/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
