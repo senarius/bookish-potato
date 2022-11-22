@@ -101,8 +101,8 @@ GET http://localhost:5147/WeatherForecast
 ```
 
 #### for addtional info About Clean Arch
-[youtube video](https://www.youtube.com/watch?v=fhM0V2N1GpY)
-[Medium post](https://medium.com/c-sharp-progarmming/building-clean-architecture-application-using-asp-net-core-web-api-and-angular-11-backend-81b57c315dfa)
-[Github](https://github.com/iayti/CleanArchitecture)
-[About Arch itself #1](https://www.c-sharpcorner.com/article/clean-architecture-in-asp-net-core-web-api/)
-[About Arch itself #2](https://www.c-sharpcorner.com/article/clean-architecture-with-asp-net-core-webapi/)
+- [youtube video](https://www.youtube.com/watch?v=fhM0V2N1GpY)
+- [Medium post](https://medium.com/c-sharp-progarmming/building-clean-architecture-application-using-asp-net-core-web-api-and-angular-11-backend-81b57c315dfa)
+- [Github](https://github.com/iayti/CleanArchitecture)
+- [About Arch itself #1](https://www.c-sharpcorner.com/article/clean-architecture-in-asp-net-core-web-api/)
+- [About Arch itself #2](https://www.c-sharpcorner.com/article/clean-architecture-with-asp-net-core-webapi/)
