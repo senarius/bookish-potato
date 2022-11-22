@@ -1,4 +1,4 @@
-## MAC instuction:
+## MAC instruction:
 ### brew install (ifyou have a brew skip it)
 #### step 1 
 ```shell
