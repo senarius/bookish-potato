@@ -66,3 +66,16 @@ dotnet sln add (ls -r **\*.csproj)
 ```shell
 dotnet build
 ```
+
+#### Adding reference (dependency between projects)
+```shell
+dotnet add .\{ProjectName}.Api\ reference .\{ProjectName}.Contracts\ .\{ProjectName}.Application\ 
+```
+#### Adding reference (Infrastructure to Application)
+```shell
+dotnet add .\{ProjectName}.Infrastructure\ reference .\{ProjectName}.Application\ 
+```
+#### Adding reference (Application to Domain)
+```shell
+dotnet add .\{ProjectName}.Application\ reference .\{ProjectName}.Domain\ 
+```
