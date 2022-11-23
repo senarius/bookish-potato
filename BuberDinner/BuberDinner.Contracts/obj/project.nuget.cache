@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cr3QBevX8AN23Lx376Mqv+dtELe8fjOiNDo9xjAnFI4JkgCbJAnySJyZ2cZoCQZ98IjOEhUs9JDa9Bg/YX0ZQQ==",
+  "dgSpecHash": "FzLlXRuknVV7/WfKc45ENqaP/hSblSKr5rMmDW2RUJUflPMXN1zz+RmJKzC8o19/xGdu62kaS9R1FcftcGGqdg==",
   "success": true,
-  "projectFilePath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+  "projectFilePath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

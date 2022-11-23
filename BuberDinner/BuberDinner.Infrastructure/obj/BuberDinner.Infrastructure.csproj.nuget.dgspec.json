@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {}
+    "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
+    "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+        "projectUniqueName": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
-        "packagesPath": "/Users/ts-otgon.tuukhbaatar/.nuget/packages/",
-        "outputPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/obj/",
+        "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+        "packagesPath": "/home/otgoo/.nuget/packages/",
+        "outputPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ts-otgon.tuukhbaatar/.nuget/NuGet/NuGet.Config"
+          "/home/otgoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
-                "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj"
+              "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
+                "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj"
               }
             }
           }
@@ -53,8 +53,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,21 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
+    "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+        "projectUniqueName": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
-        "packagesPath": "/Users/ts-otgon.tuukhbaatar/.nuget/packages/",
-        "outputPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Domain/obj/",
+        "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+        "packagesPath": "/home/otgoo/.nuget/packages/",
+        "outputPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ts-otgon.tuukhbaatar/.nuget/NuGet/NuGet.Config"
+          "/home/otgoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -106,8 +105,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -116,21 +114,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {
+    "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
-        "packagesPath": "/Users/ts-otgon.tuukhbaatar/.nuget/packages/",
-        "outputPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/obj/",
+        "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+        "packagesPath": "/home/otgoo/.nuget/packages/",
+        "outputPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ts-otgon.tuukhbaatar/.nuget/NuGet/NuGet.Config"
+          "/home/otgoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -142,8 +140,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
-                "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj"
+              "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
+                "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj"
               }
             }
           }
@@ -169,8 +167,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -179,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nEA3KyC5tr8zcHXIEKG+ti3N/JIZscU4XbcG7fvVPGUtCzDTJbB6Q3mq+bK+3265XL6S7/e1afzgsfqGmrYD8w==",
+  "dgSpecHash": "KoD1+8sf94dxp/fW9zHr+kjvI7RRsBia+ksJRK3WPXH6cFVJcOo3CCflgBINDQHr39+Iww5vzLb071EAJZbG+Q==",
   "success": true,
-  "projectFilePath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
+  "projectFilePath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
   "expectedPackageFiles": [
-    "/Users/ts-otgon.tuukhbaatar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "/home/otgoo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
