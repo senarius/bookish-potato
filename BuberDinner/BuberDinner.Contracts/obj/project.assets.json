@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/otgoo/.nuget/packages/": {}
+    "/Users/ts-otgon.tuukhbaatar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+      "projectUniqueName": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
       "projectName": "BuberDinner.Contracts",
-      "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
-      "packagesPath": "/home/otgoo/.nuget/packages/",
-      "outputPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/",
+      "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+      "packagesPath": "/Users/ts-otgon.tuukhbaatar/.nuget/packages/",
+      "outputPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/otgoo/.nuget/NuGet/NuGet.Config"
+        "/Users/ts-otgon.tuukhbaatar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }

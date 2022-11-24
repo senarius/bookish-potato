@@ -1,5 +1,5 @@
 ## MAC instruction:
-### brew install (ifyou have a brew skip it)
+### brew install (if you have a brew skip it)
 #### step 1 
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
