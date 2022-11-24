@@ -1,5 +1,5 @@
 ## MAC instruction:
-### brew install (ifyou have a brew skip it)
+### brew install (if you have a brew skip it)
 #### step 1 
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -83,9 +83,13 @@ dotnet add {ProjectName}.Application reference {ProjectName}.Domain
 ```shell
 dotnet add {ProjectName}.Api reference {ProjectName}.Infrastructure 
 ```
-#### Adding reference (Api to Infrastructure)
+#### Run the api project
 ```shell
 dotnet run --project {ProjectName}.Api
+```
+#### Run project with watch will live update your change
+```shell
+dotnet watch run --project {ProjectName}.Api
 ```
 #### install REST client on VS code (optional)
 search type: 'rest client' then install

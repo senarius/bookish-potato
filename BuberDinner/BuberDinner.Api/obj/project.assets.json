@@ -5,10 +5,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -123,19 +127,19 @@
     ]
   },
   "packageFolders": {
-    "/home/otgoo/.nuget/packages/": {}
+    "/Users/ts-otgon.tuukhbaatar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
+      "projectUniqueName": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
       "projectName": "BuberDinner.Api",
-      "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
-      "packagesPath": "/home/otgoo/.nuget/packages/",
-      "outputPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Api/obj/",
+      "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
+      "packagesPath": "/Users/ts-otgon.tuukhbaatar/.nuget/packages/",
+      "outputPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/otgoo/.nuget/NuGet/NuGet.Config"
+        "/Users/ts-otgon.tuukhbaatar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -147,14 +151,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
-              "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj"
+            "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
+              "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj"
             },
-            "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj": {
-              "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj"
+            "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj": {
+              "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj"
             },
-            "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {
-              "projectPath": "/home/otgoo/proj/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj"
+            "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {
+              "projectPath": "/Users/ts-otgon.tuukhbaatar/bookish-potato/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj"
             }
           }
         }
@@ -174,7 +178,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -186,7 +191,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
