@@ -83,9 +83,13 @@ dotnet add {ProjectName}.Application reference {ProjectName}.Domain
 ```shell
 dotnet add {ProjectName}.Api reference {ProjectName}.Infrastructure 
 ```
-#### Adding reference (Api to Infrastructure)
+#### Run the api project
 ```shell
 dotnet run --project {ProjectName}.Api
+```
+#### Run project with watch will live update your change
+```shell
+dotnet watch run --project {ProjectName}.Api
 ```
 #### install REST client on VS code (optional)
 search type: 'rest client' then install
