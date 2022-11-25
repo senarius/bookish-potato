@@ -8,8 +8,6 @@ trigger:
 - main
 
 pool:
-  name: 'APOtgoo1'
-  demands: 'hmm1'
   vmImage: 'windows-latest'
 
 variables:
